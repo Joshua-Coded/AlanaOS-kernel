@@ -1,0 +1,15 @@
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.o
+.*.cmd
+.tmp_versions/
+modules.order
+module.sysvers
+
+*~
+.*.swp
+/build
+.idea/
+.vscode/
